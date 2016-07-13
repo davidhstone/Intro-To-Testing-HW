@@ -1,0 +1,79 @@
+Facebook Testing
+
+Testing - uploading photos, writing statuses, commenting on statuses
+
+
+Uploading Photos Test Case:
+	
+	Conditionals:
+		
+		1 - The user can select a photo to upload
+			User Story: As a user, I can choose between photos to upload
+		
+		2 - The user can add a caption
+			User Story: As a user I can add a caption to the picture if I choose to
+		
+		3 - The user can choose beetween privacy options
+			User Story: As a user, I can decide whether a picture will be public, for all my friends to see, or 
+							for only a select group of friends
+		
+		4 - The user can cancel the upload before it starts
+			User Story: As a user, I can choose to cancel the upload at any time by clicking cancel
+		
+		5 - The user can tag friends
+			User Story: As a user, I can tag my friends in a picture
+		
+		6 - The correct photo uploads
+			User Story: As a user, I can upload the picture that I wanted to upload
+
+
+
+Writing Statuses Test Case:
+	
+	Conditionals:
+		
+		1 - The user can type characters of his/her choice into the EditText
+			User Story: As a user, I can type a status into the write status field
+		
+		2 - The user can post or cancel the new status
+			User Story: As a user I can choose to either post my status or cancel 
+		
+		3 - An error message will show if the write status field is left blank and the user clicks "post"
+			User Story: As a user, I can see an error message if I try to post a blank status
+		
+		4 - The user can select a privacy setting for the new status
+			User Story: As a user, I can decide whether a picture will be public, for all my friends to see, or 
+							for only a select group of friends
+		
+		5 - The user can tag friends in a status
+			User Story: As a user, I can tag my friends in a status
+		
+		6 - The user can add a photo or video to the status
+			User Story: As a user, I can select among photos and videos and include one of either in the status
+
+
+
+Commenting On Statuses Test Case:
+	
+	Conditionals:
+		
+		1 - The user can type characters of his/her choice into the EditText
+			User Story: As a user, I can type a comment into the comment field
+		
+		2 - The user can post or cancel the new comment
+			User Story: As a user I can choose to either post my comment or cancel 
+		
+		3 - An error message will show if the comment field is left blank and the user clicks "post"
+			User Story: As a user, I can see an error message if I try to post a blank comment
+		
+		4 - The user can select emojis to add to the comment
+			User Story: As a user, I can decide whether to add an emoji, and can select the one I want
+				among a collections of emojis
+		
+		5 - The user can paste into the comment field
+			User Story: As a user, I can paste a copied selection stored in my clipboard into the comment field
+		
+		6 - The user can add a photo or video to the comment
+			User Story: As a user, I can select among photos and videos and include one of either in the comment			
+
+
